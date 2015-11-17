@@ -138,7 +138,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="ReadMe.txt" />
+    <Text Include="ReadMeApp.txt" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="resource.h" />
